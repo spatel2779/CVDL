@@ -1,7 +1,6 @@
 opencv-python
-base64
-io
+pybase64
 streamlit
-pillow
+Pillow
 numpy
-filters
+scikit-image
