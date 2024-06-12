@@ -1,7 +1,0 @@
-opencv-python
-pybase64
-streamlit
-Pillow
-numpy
-scikit-image
-
