@@ -1,4 +1,4 @@
-cv2
+opencv-python
 base64
 io
 streamlit
